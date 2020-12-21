@@ -10,7 +10,7 @@ export const FrontCover = React.forwardRef((props, ref) => {
 			<h1>NABHANI</h1>
 			<div className="seperator">
 				<hr />
-				<img className="gradHat" src="\Svg\gradHat.svg" />
+				<img className="gradHat" src={"\gradHat.svg"} />
 				<hr />
 			</div>
 			<h2 className="title">Graduation Notebook</h2>
