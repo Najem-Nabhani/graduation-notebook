@@ -10,7 +10,7 @@ export const FrontCover = React.forwardRef((props, ref) => {
 			<h1>NABHANI</h1>
 			<div className="seperator">
 				<hr />
-				<img className="gradHat" src={"\gradHat.svg"} />
+				<img className="gradHat" src={"/gradHat.svg"} />
 				<hr />
 			</div>
 			<h2 className="title">Graduation Notebook</h2>
@@ -23,7 +23,7 @@ export const FrontCover = React.forwardRef((props, ref) => {
 export const DearFather =  React.forwardRef((props, ref) => {
 	return (
 		<div className="dad-cover" ref={ref}>
-			<img src='Images\Dad.jpg'/>
+			<img src='Images/Dad.jpg'/>
 			<p>  أهدي نجاحي وتخرجي الى والدي الحبيب</p>
 			<p> الرجل الذي جعل مني رجلا ...</p>
 			<br/>
