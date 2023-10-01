@@ -3,7 +3,7 @@
 ## About
 When I was about to graduate early-2021, everyone was in lockdown due COVID-19, we lost the pleasure of exchanging fairwell message on our graduation notebooks. There existed online notebooks at the time, but I didn’t like the format and wanted my own customizations, so I have created this to allow friends and family to write for me :)
 
-Deployed via github pages: https://mrn-nabhani.github.io/graduation-notebook/
+Deployed via github pages: https://najem-nabhani.github.io/graduation-notebook/
 
 ## Properties / Features
 * React web-application
